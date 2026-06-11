@@ -47,7 +47,7 @@ public class coffeecounter {
                System.out.println("Quantity must be greater than 0.\n");
             } else {
                double var13 = var3 * (double)var6;
-               double var9 = var13 * 0.18;
+               double var9 = var13 * 0.18; 
                double var11 = var13 + var9;
                System.out.println("----- Receipt -----");
                System.out.println("Coffee: " + var2);
