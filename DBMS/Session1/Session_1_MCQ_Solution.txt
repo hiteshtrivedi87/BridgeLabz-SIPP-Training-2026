@@ -1,0 +1,125 @@
+MySQL Programming - Session 1: RDBMS Fundamentals, 
+DDL & DML Commands 
+Multiple Choice Questions (MCQ) Quiz 
+Total Questions: 20 | Duration: 1 Hour | Difficulty: Beginner-Intermediate 
+Instructions: Select the most appropriate answer for each question. 
+
+1. What does DDL stand for? 
+• A) Data Definition Language ✅
+• B) Data Display Language 
+• C) Database Declaration Language 
+• D) Data Deletion Language 
+
+2. Which DDL command is used to create a new table? 
+• A) INSERT 
+• B) CREATE ✅
+• C) ALTER 
+• D) DROP 
+
+3. What is the purpose of the ALTER command? 
+• A) Delete data 
+• B) Modify table structure ✅
+• C) Insert data 
+• D) Retrieve data 
+
+4. Which DML command is used to insert data into a table? 
+• A) INSERT ✅
+• B) UPDATE 
+• C) DELETE 
+• D) SELECT 
+
+5. What does DML stand for? 
+• A) Data Modification Language 
+• B) Data Modeling Language 
+• C) Database Management Language 
+• D) Data Manipulation Language ✅
+
+6. Which command is used to remove a table from the database? 
+• A) DELETE 
+• B) DROP ✅
+• C) REMOVE 
+• D) TRUNCATE 
+
+7. What is the difference between DELETE and TRUNCATE? 
+• A) DELETE is faster 
+• B) TRUNCATE is faster ✅ 
+• C) They are the same 
+• D) DELETE removes tables 
+
+8. Which statement is used to modify existing records? 
+• A) INSERT 
+• B) UPDATE ✅
+• C) ALTER 
+• D) MODIFY 
+
+9. Can we use WHERE clause with INSERT statement? 
+• A) Yes 
+• B) No ✅
+• C) Only with date columns 
+• D) Only with string columns 
+
+10. What is RDBMS? 
+• A) Relational Database Management System ✅
+• B) Remote Database Management System 
+• C) Rapid Database Management System 
+• D) Reliable Database Management System 
+
+11. Which is a valid SQL data type? 
+• A) VARCHAR 
+• B) INTEGER 
+• C) DATE 
+• D) All of the above ✅
+
+12. Can a table have multiple PRIMARY KEYs? 
+• A) Yes 
+• B) No ✅
+• C) Only if columns are combined 
+• D) Only in special cases 
+
+13. What command is used to view table structure? 
+• A) SHOW TABLE 
+• B) DESC 
+• C) DESCRIBE 
+• D) Both B and C ✅
+
+14. Which is NOT a valid constraint? 
+• A) PRIMARY KEY 
+• B) FOREIGN KEY 
+• C) SECONDARY KEY ✅ 
+• D) UNIQUE 
+
+15. What is the purpose of the INSERT command? 
+• A) Add new rows to table ✅
+• B) Remove rows from table 
+• C) Modify existing rows 
+• D) Display table structure 
+
+16. Can we insert NULL values into a column defined as NOT NULL? 
+• A) Yes 
+• B) No ✅
+• C) Only strings 
+• D) Only numbers 
+
+17. What does the WHERE clause do in UPDATE statement? 
+• A) Specifies which rows to update ✅
+• B) Orders the results 
+• C) Groups the results 
+• D) Filters the output 
+
+18. Which keyword is used to prevent duplicate values in INSERT? 
+• A) UNIQUE ✅
+• B) DISTINCT 
+• C) PRIMARY 
+• D) CHECK 
+
+19. What is a NULL value in SQL? 
+• A) Zero 
+• B) Empty string 
+• C) Unknown/Missing value ✅
+• D) False 
+
+20. Can we add column constraints after table creation? 
+• A) Yes, using ALTER ✅
+• B) No 
+• C) Only PRIMARY KEY 
+• D) Only UNIQUE 

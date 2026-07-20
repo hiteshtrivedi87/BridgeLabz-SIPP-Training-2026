@@ -1,0 +1,142 @@
+MySQL Session 1 MCQs - Questions, Options & Answers
+Q1. What does DDL stand for?
+A) Data Definition Language
+B) Data Display Language
+C) Database Declaration Language
+D) Data Deletion Language
+Answer: A
+
+Q2. Which DDL command is used to create a new table?
+A) INSERT
+B) CREATE
+C) ALTER
+D) DROP
+Answer: B
+
+Q3. What is the purpose of the ALTER command?
+A) Delete data
+B) Modify table structure
+C) Insert data
+D) Retrieve data
+Answer: B
+
+Q4. Which DML command is used to insert data into a table?
+A) INSERT
+B) UPDATE
+C) DELETE
+D) SELECT
+Answer: A
+
+Q5. What does DML stand for?
+A) Data Modification Language
+B) Data Modeling Language
+C) Database Management Language
+D) Data Manipulation Language
+Answer: D
+
+Q6. Which command is used to remove a table from the database?
+A) DELETE
+B) DROP
+C) REMOVE
+D) TRUNCATE
+Answer: B
+
+Q7. What is the difference between DELETE and TRUNCATE?
+A) DELETE is faster
+B) TRUNCATE is faster
+C) They are the same
+D) DELETE removes tables
+Answer: B
+
+Q8. Which statement is used to modify existing records?
+A) INSERT
+B) UPDATE
+C) ALTER
+D) MODIFY
+Answer: B
+
+Q9. Can we use WHERE clause with INSERT statement?
+A) Yes
+B) No
+C) Only with date columns
+D) Only with string columns
+Answer: B
+
+Q10. What is RDBMS?
+A) Relational Database Management System
+B) Remote Database Management System
+C) Rapid Database Management System
+D) Reliable Database Management System
+Answer: A
+
+Q11. Which is a valid SQL data type?
+A) VARCHAR
+
+B) INTEGER
+C) DATE
+D) All of the above
+Answer: D
+
+Q12. Can a table have multiple PRIMARY KEYs?
+A) Yes
+B) No
+C) Only if columns are combined
+D) Only in special cases
+Answer: B
+
+Q13. What command is used to view table structure?
+A) SHOW TABLE
+B) DESC
+C) DESCRIBE
+D) Both B and C
+Answer: D
+
+Q14. Which is NOT a valid constraint?
+A) PRIMARY KEY
+B) FOREIGN KEY
+C) SECONDARY KEY
+D) UNIQUE
+Answer: C
+
+Q15. What is the purpose of the INSERT command?
+A) Add new rows to table
+B) Remove rows from table
+C) Modify existing rows
+D) Display table structure
+Answer: A
+
+Q16. Can we insert NULL values into a column defined as NOT NULL?
+A) Yes
+B) No
+C) Only strings
+
+D) Only numbers
+Answer: B
+
+Q17. What does the WHERE clause do in UPDATE statement?
+A) Specifies which rows to update
+B) Orders the results
+C) Groups the results
+D) Filters the output
+Answer: A
+
+Q18. Which keyword is used to prevent duplicate values in INSERT?
+A) UNIQUE
+B) DISTINCT
+C) PRIMARY
+D) CHECK
+Answer: A
+
+Q19. What is a NULL value in SQL?
+A) Zero
+B) Empty string
+C) Unknown/Missing value
+D) False
+Answer: C
+
+Q20. Can we add column constraints after table creation?
+A) Yes, using ALTER
+B) No
+C) Only PRIMARY KEY
+D) Only UNIQUE
+Answer: A
